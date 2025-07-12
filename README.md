@@ -24,9 +24,7 @@ This is part of my **daily DSA practice** for improving problem-solving skills a
 | Problem No. | Problem Name | Difficulty | Solution |
 |-------------|--------------|------------|----------|
 | 1 | Two Sum | Easy | [1-two-sum.py](1-two-sum.py) |
-| 15 | 3Sum | Medium | [15-3sum.py](15-3sum.py) |
-| 20 | Valid Parentheses | Easy | [20-valid-parentheses.py](20-valid-parentheses.py) |
-| ... | ... | ... | ... |
+| 167 | Two Sum II – Input Array Is Sorted | Medium | [2-two-sum-ii.py](2-two-sum-ii.py) |
 
 > You can update this table each time you add a new solution.
 
@@ -64,7 +62,7 @@ This is part of my **daily DSA practice** for improving problem-solving skills a
 ## 📬 Connect with Me
 
 Feel free to follow or message me on:
-- [LinkedIn](www.linkedin.com/in/somanathp) 
+- [LinkedIn](https://www.linkedin.com/in/somanathp) 
 - [GitHub](https://github.com/SomanathPattanashetti/leetcode-python-solutions)
 
 Let’s grow together 💪🚀
