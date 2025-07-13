@@ -25,6 +25,8 @@ This is part of my **daily DSA practice** for improving problem-solving skills a
 |-------------|--------------|------------|----------|
 | 1 | Two Sum | Easy | [1-two-sum.py](1-two-sum.py) |
 | 167 | Two Sum II – Input Array Is Sorted | Medium | [2-two-sum-ii.py](2-two-sum-ii.py) |
+| 125 | Valid Palindrome | Easy | [125-valid-palindrome.py](125-valid-palindrome.py) |
+
 
 > You can update this table each time you add a new solution.
 
