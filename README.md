@@ -27,6 +27,8 @@ This is part of my **daily DSA practice** for improving problem-solving skills a
 | 167 | Two Sum II – Input Array Is Sorted | Medium | [2-two-sum-ii.py](2-two-sum-ii.py) |
 | 125 | Valid Palindrome | Easy | [125-valid-palindrome.py](125-valid-palindrome.py) |
 | 11 | Container With Most Water | Medium | [11-container-with-most-water.py](11-container-with-most-water.py) |
+| 121 | Best Time to Buy and Sell Stock | Easy | [121-best-time-to-buy-and-sell-stock.py](121-best-time-to-buy-and-sell-stock.py) |
+
 
 
 
