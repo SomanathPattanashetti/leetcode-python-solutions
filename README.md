@@ -28,6 +28,8 @@ This is part of my **daily DSA practice** for improving problem-solving skills a
 | 125 | Valid Palindrome | Easy | [125-valid-palindrome.py](125-valid-palindrome.py) |
 | 11 | Container With Most Water | Medium | [11-container-with-most-water.py](11-container-with-most-water.py) |
 | 121 | Best Time to Buy and Sell Stock | Easy | [121-best-time-to-buy-and-sell-stock.py](121-best-time-to-buy-and-sell-stock.py) |
+| 567 | Permutation in String | Medium | [567-permutation-in-string.py](567-permutation-in-string.py) |
+
 
 
 
