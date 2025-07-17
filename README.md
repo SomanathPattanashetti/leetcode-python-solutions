@@ -29,6 +29,8 @@ This is part of my **daily DSA practice** for improving problem-solving skills a
 | 11 | Container With Most Water | Medium | [11-container-with-most-water.py](11-container-with-most-water.py) |
 | 121 | Best Time to Buy and Sell Stock | Easy | [121-best-time-to-buy-and-sell-stock.py](121-best-time-to-buy-and-sell-stock.py) |
 | 567 | Permutation in String | Medium | [567-permutation-in-string.py](567-permutation-in-string.py) |
+| 76 | Minimum Window Substring | Hard | [76-minimum-window-substring.py](76-minimum-window-substring.py) |
+
 
 
 
