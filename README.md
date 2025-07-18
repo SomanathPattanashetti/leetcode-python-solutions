@@ -30,6 +30,7 @@ This is part of my **daily DSA practice** for improving problem-solving skills a
 | 121 | Best Time to Buy and Sell Stock | Easy | [121-best-time-to-buy-and-sell-stock.py](121-best-time-to-buy-and-sell-stock.py) |
 | 567 | Permutation in String | Medium | [567-permutation-in-string.py](567-permutation-in-string.py) |
 | 76 | Minimum Window Substring | Hard | [76-minimum-window-substring.py](76-minimum-window-substring.py) |
+| 20 | Valid Parentheses | Easy | [20-valid-parentheses.py](20-valid-parentheses.py) |
 
 
 
