@@ -34,6 +34,8 @@ This is part of my **daily DSA practice** for improving problem-solving skills a
 | 155 | Min Stack | Medium | [155-min-stack.py](155-min-stack.py) |
 | 150 | Evaluate Reverse Polish Notation | Medium | [150-evaluate-reverse-polish-notation.py](150-evaluate-reverse-polish-notation.py) |
 | 739 | Daily Temperatures | Medium | [739-daily-temperatures.py](739-daily-temperatures.py) |
+| 20  | Valid Parentheses | Easy   | [20-valid-parentheses.py](20-valid-parentheses.py) |
+
 
 
 
