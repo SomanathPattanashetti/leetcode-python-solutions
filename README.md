@@ -36,6 +36,8 @@ This is part of my **daily DSA practice** for improving problem-solving skills a
 | 739 | Daily Temperatures | Medium | [739-daily-temperatures.py](739-daily-temperatures.py) |
 | 20  | Valid Parentheses | Easy   | [20-valid-parentheses.py](20-valid-parentheses.py) |
 | 704  | Binary Search     | Easy   | [704-binary-search.py](704-binary-search.py) |
+| 74 | Search a 2D Matrix | Medium | [74-search-a-2d-matrix.py](74-search-a-2d-matrix.py) | 
+
 
 
 
