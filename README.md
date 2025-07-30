@@ -40,6 +40,8 @@ This is part of my **daily DSA practice** for improving problem-solving skills a
 | 875 | Koko Eating Bananas | Medium | [875-koko-eating-bananas.py](875-koko-eating-bananas.py) | 
 | 153 | Find Minimum in Rotated Sorted Array | Medium | [153-find-minimum-in-rotated-sorted-array.py](153-find-minimum-in-rotated-sorted-array.py) | 
 | 101 | Symmetric Tree | Easy | [101-symmetric-tree.py](101-symmetric-tree.py) | 
+| 981 | Time-Based Key-Value Store | Medium | [981-time-based-key-value-store.py](981-time-based-key-value-store.py) | 
+
 
 
 
