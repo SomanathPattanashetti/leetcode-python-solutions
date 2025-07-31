@@ -41,7 +41,7 @@ This is part of my **daily DSA practice** for improving problem-solving skills a
 | 153 | Find Minimum in Rotated Sorted Array | Medium | [153-find-minimum-in-rotated-sorted-array.py](153-find-minimum-in-rotated-sorted-array.py) | 
 | 101 | Symmetric Tree | Easy | [101-symmetric-tree.py](101-symmetric-tree.py) | 
 | 981 | Time-Based Key-Value Store | Medium | [981-time-based-key-value-store.py](981-time-based-key-value-store.py) | 
-
+| 206 | Reverse Linked List | Easy | [206-reverse-linked-list.py](206-reverse-linked-list.py) |
 
 
 
