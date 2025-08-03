@@ -43,6 +43,7 @@ This is part of my **daily DSA practice** for improving problem-solving skills a
 | 981 | Time-Based Key-Value Store | Medium | [981-time-based-key-value-store.py](981-time-based-key-value-store.py) | 
 | 206 | Reverse Linked List | Easy | [206-reverse-linked-list.py](206-reverse-linked-list.py) |
 | 21 | Merge Two Sorted Lists | Easy | [21-merge-two-sorted-lists.py](21-merge-two-sorted-lists.py) | 
+| 138 | Copy List with Random Pointer | Medium | [138-copy-list-with-random-pointer.py](138-copy-list-with-random-pointer.py) |
 
 
 
