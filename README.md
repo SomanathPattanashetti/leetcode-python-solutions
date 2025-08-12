@@ -45,6 +45,8 @@ This is part of my **daily DSA practice** for improving problem-solving skills a
 | 21 | Merge Two Sorted Lists | Easy | [21-merge-two-sorted-lists.py](21-merge-two-sorted-lists.py) | 
 | 138 | Copy List with Random Pointer | Medium | [138-copy-list-with-random-pointer.py](138-copy-list-with-random-pointer.py) |
 | 141 | Linked List Cycle | Easy | [141-linked-list-cycle.py](141-linked-list-cycle.py) |
+| 23 | Merge k Sorted Lists | Hard | [23-merge-k-sorted-lists.py](23-merge-k-sorted-lists.py) |
+
 
 
 
