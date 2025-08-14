@@ -46,6 +46,8 @@ This is part of my **daily DSA practice** for improving problem-solving skills a
 | 138 | Copy List with Random Pointer | Medium | [138-copy-list-with-random-pointer.py](138-copy-list-with-random-pointer.py) |
 | 141 | Linked List Cycle | Easy | [141-linked-list-cycle.py](141-linked-list-cycle.py) |
 | 23 | Merge k Sorted Lists | Hard | [23-merge-k-sorted-lists.py](23-merge-k-sorted-lists.py) |
+| 25 | Reverse Nodes in k-Group | Hard | [25-reverse-nodes-in-k-group.py](25-reverse-nodes-in-k-group.py) |
+| 226 | Invert Binary Tree | Easy | [226-invert-binary-tree.py](226-invert-binary-tree.py) |
 
 
 
