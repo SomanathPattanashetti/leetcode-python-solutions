@@ -48,6 +48,8 @@ This is part of my **daily DSA practice** for improving problem-solving skills a
 | 23 | Merge k Sorted Lists | Hard | [23-merge-k-sorted-lists.py](23-merge-k-sorted-lists.py) |
 | 25 | Reverse Nodes in k-Group | Hard | [25-reverse-nodes-in-k-group.py](25-reverse-nodes-in-k-group.py) |
 | 226 | Invert Binary Tree | Easy | [226-invert-binary-tree.py](226-invert-binary-tree.py) |
+| 104 | Maximum Depth of Binary Tree | Easy | [104-maximum-depth-of-binary-tree.py](104-maximum-depth-of-binary-tree.py) |
+| 543 | Diameter of Binary Tree | Easy | [543-diameter-of-binary-tree.py](543-diameter-of-binary-tree.py) |
 
 
 
