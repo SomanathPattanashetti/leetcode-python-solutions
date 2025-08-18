@@ -50,6 +50,8 @@ This is part of my **daily DSA practice** for improving problem-solving skills a
 | 226 | Invert Binary Tree | Easy | [226-invert-binary-tree.py](226-invert-binary-tree.py) |
 | 104 | Maximum Depth of Binary Tree | Easy | [104-maximum-depth-of-binary-tree.py](104-maximum-depth-of-binary-tree.py) |
 | 543 | Diameter of Binary Tree | Easy | [543-diameter-of-binary-tree.py](543-diameter-of-binary-tree.py) |
+| 110 | Balanced Binary Tree | Easy | [110-balanced-binary-tree.py](110-balanced-binary-tree.py) |
+| 100 | Same Tree | Easy | [100-same-tree.py](100-same-tree.py) |
 
 
 
