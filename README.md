@@ -53,6 +53,8 @@ This is part of my **daily DSA practice** for improving problem-solving skills a
 | 110 | Balanced Binary Tree | Easy | [110-balanced-binary-tree.py](110-balanced-binary-tree.py) |
 | 100 | Same Tree | Easy | [100-same-tree.py](100-same-tree.py) |
 | 572 | Subtree of Another Tree | Easy | [572-subtree-of-another-tree.py](572-subtree-of-another-tree.py) |
+| 235 | Lowest Common Ancestor of a Binary Search Tree | Medium | [235-lowest-common-ancestor-of-a-bst.py](235-lowest-common-ancestor-of-a-bst.py) |
+
 
 
 
