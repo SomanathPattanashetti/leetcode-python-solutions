@@ -52,6 +52,7 @@ This is part of my **daily DSA practice** for improving problem-solving skills a
 | 543 | Diameter of Binary Tree | Easy | [543-diameter-of-binary-tree.py](543-diameter-of-binary-tree.py) |
 | 110 | Balanced Binary Tree | Easy | [110-balanced-binary-tree.py](110-balanced-binary-tree.py) |
 | 100 | Same Tree | Easy | [100-same-tree.py](100-same-tree.py) |
+| 572 | Subtree of Another Tree | Easy | [572-subtree-of-another-tree.py](572-subtree-of-another-tree.py) |
 
 
 
