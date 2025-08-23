@@ -56,6 +56,7 @@ This is part of my **daily DSA practice** for improving problem-solving skills a
 | 235 | Lowest Common Ancestor of a Binary Search Tree | Medium | [235-lowest-common-ancestor-of-a-bst.py](235-lowest-common-ancestor-of-a-bst.py) |
 | 102 | Binary Tree Level Order Traversal | Medium | [102-binary-tree-level-order-traversal.py](102-binary-tree-level-order-traversal.py) |
 | 199 | Binary Tree Right Side View | Medium | [199-binary-tree-right-side-view.py](199-binary-tree-right-side-view.py) |
+| 1448 | Count Good Nodes in Binary Tree | Medium | [1448-good-nodes-in-binary-tree.py](1448-good-nodes-in-binary-tree.py) |
 
 
 
