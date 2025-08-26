@@ -59,6 +59,7 @@ This is part of my **daily DSA practice** for improving problem-solving skills a
 | 1448 | Count Good Nodes in Binary Tree | Medium | [1448-good-nodes-in-binary-tree.py](1448-good-nodes-in-binary-tree.py) |
 | 98 | Validate Binary Search Tree | Medium | [98-validate-binary-search-tree.py](98-validate-binary-search-tree.py) |
 | 230 | Kth Smallest Element in a BST | Medium | [230-kth-smallest-element-in-a-bst.py](230-kth-smallest-element-in-a-bst.py) |
+| 208 | Implement Trie (Prefix Tree) | Medium | [208-implement-trie-prefix-tree.py](208-implement-trie-prefix-tree.py) |
 
 
 
