@@ -62,6 +62,7 @@ This is part of my **daily DSA practice** for improving problem-solving skills a
 | 208 | Implement Trie (Prefix Tree) | Medium | [208-implement-trie-prefix-tree.py](208-implement-trie-prefix-tree.py) |
 | 124 | Binary Tree Maximum Path Sum | Hard | [124-binary-tree-maximum-path-sum.py](124-binary-tree-maximum-path-sum.py) |
 | 151 | Reverse Words in a String | Medium | [151-reverse-words-in-a-string.py](151-reverse-words-in-a-string.py) |
+| 53 | Maximum Subarray | Medium | [53-maximum-subarray.py](53-maximum-subarray.py) |
 
 
 
