@@ -63,6 +63,7 @@ This is part of my **daily DSA practice** for improving problem-solving skills a
 | 124 | Binary Tree Maximum Path Sum | Hard | [124-binary-tree-maximum-path-sum.py](124-binary-tree-maximum-path-sum.py) |
 | 151 | Reverse Words in a String | Medium | [151-reverse-words-in-a-string.py](151-reverse-words-in-a-string.py) |
 | 53 | Maximum Subarray | Medium | [53-maximum-subarray.py](53-maximum-subarray.py) |
+| 9 | Palindrome Number | Easy | [9-palindrome-number.py](9-palindrome-number.py) |
 
 
 
