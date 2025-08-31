@@ -64,6 +64,8 @@ This is part of my **daily DSA practice** for improving problem-solving skills a
 | 151 | Reverse Words in a String | Medium | [151-reverse-words-in-a-string.py](151-reverse-words-in-a-string.py) |
 | 53 | Maximum Subarray | Medium | [53-maximum-subarray.py](53-maximum-subarray.py) |
 | 9 | Palindrome Number | Easy | [9-palindrome-number.py](9-palindrome-number.py) |
+| 13 | Roman to Integer | Easy | [13-roman-to-integer.py](13-roman-to-integer.py) |
+
 
 
 
