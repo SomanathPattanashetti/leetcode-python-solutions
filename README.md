@@ -67,6 +67,7 @@ This is part of my **daily DSA practice** for improving problem-solving skills a
 | 13 | Roman to Integer | Easy | [13-roman-to-integer.py](13-roman-to-integer.py) |
 | 14 | Longest Common Prefix | Easy | [14-longest-common-prefix.py](14-longest-common-prefix.py) |
 | 35 | Search Insert Position | Easy | [35-search-insert-position.py](35-search-insert-position.py) |
+| 58  | Length of Last Word     | Easy | [58-length-of-last-word.py](58-length-of-last-word.py) |
 
 
 
