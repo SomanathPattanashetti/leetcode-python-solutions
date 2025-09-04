@@ -68,6 +68,7 @@ This is part of my **daily DSA practice** for improving problem-solving skills a
 | 14 | Longest Common Prefix | Easy | [14-longest-common-prefix.py](14-longest-common-prefix.py) |
 | 35 | Search Insert Position | Easy | [35-search-insert-position.py](35-search-insert-position.py) |
 | 58  | Length of Last Word     | Easy | [58-length-of-last-word.py](58-length-of-last-word.py) |
+| 88  | Merge Sorted Array | Easy | [88-merge-sorted-array.py](88-merge-sorted-array.py) |
 
 
 
