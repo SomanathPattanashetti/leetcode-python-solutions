@@ -71,6 +71,7 @@ This is part of my **daily DSA practice** for improving problem-solving skills a
 | 88  | Merge Sorted Array | Easy | [88-merge-sorted-array.py](88-merge-sorted-array.py) 
 | 83 | Remove Duplicates from Sorted List | Easy | [83-remove-duplicates-from-sorted-list.py](83-remove-duplicates-from-sorted-list.py) |
 | 136 | Single Number | Easy | [136-single-number.py](136-single-number.py) |
+| 211 | Design Add and Search Words Data Structure | Medium | [211-design-add-and-search-words-data-structure.py](211-design-add-and-search-words-data-structure.py) |
 
 
 
