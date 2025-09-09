@@ -73,6 +73,7 @@ This is part of my **daily DSA practice** for improving problem-solving skills a
 | 136 | Single Number | Easy | [136-single-number.py](136-single-number.py) |
 | 211 | Design Add and Search Words Data Structure | Medium | [211-design-add-and-search-words-data-structure.py](211-design-add-and-search-words-data-structure.py) |
 | 189 | Rotate Array | Medium | [189-rotate-array.py](189-rotate-array.py) |
+| 703 | Kth Largest Element in a Stream | Easy | [703-kth-largest-element-in-a-stream.py](703-kth-largest-element-in-a-stream.py) |
 
 
 
