@@ -77,6 +77,7 @@ This is part of my **daily DSA practice** for improving problem-solving skills a
 | 1046 | Last Stone Weight | Easy | [1046-last-stone-weight.py](1046-last-stone-weight.py) |
 | 973 | K Closest Points to Origin | Medium | [973-k-closest-points-to-origin.py](973-k-closest-points-to-origin.py) |
 | 215 | Kth Largest Element in an Array | Medium | [215-kth-largest-element-in-an-array.py](215-kth-largest-element-in-an-array.py) |
+| 169 | Majority Element | Easy | [169-majority-element.py](169-majority-element.py) |
 
 
 
