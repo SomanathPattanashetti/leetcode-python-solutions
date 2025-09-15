@@ -79,6 +79,7 @@ This is part of my **daily DSA practice** for improving problem-solving skills a
 | 215 | Kth Largest Element in an Array | Medium | [215-kth-largest-element-in-an-array.py](215-kth-largest-element-in-an-array.py) |
 | 169 | Majority Element | Easy | [169-majority-element.py](169-majority-element.py) |
 | 39 | Combination Sum | Medium | [39-combination-sum.py](39-combination-sum.py) |
+| 462 | Minimum Moves to Equal Array Elements II | Medium | [462-minimum-moves-to-equal-array-elements-ii.py](462-minimum-moves-to-equal-array-elements-ii.py) |
 
 
 
