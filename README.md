@@ -82,6 +82,7 @@ This is part of my **daily DSA practice** for improving problem-solving skills a
 | 462 | Minimum Moves to Equal Array Elements II | Medium | [462-minimum-moves-to-equal-array-elements-ii.py](462-minimum-moves-to-equal-array-elements-ii.py) |
 | 70 | Climbing Stairs | Easy | [70-climbing-stairs.py](70-climbing-stairs.py) |
 | 90  | Subsets II              | Medium | [90-subsets-ii.py](90-subsets-ii.py) |
+| 3498 | Reverse Degree of a String | Easy | [3498-reverse-degree-of-a-string.py](3498-reverse-degree-of-a-string.py) |
 
 
 
