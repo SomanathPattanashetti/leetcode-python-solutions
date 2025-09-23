@@ -87,6 +87,7 @@ This is part of my **daily DSA practice** for improving problem-solving skills a
 | 451 | Sort Characters By Frequency | Medium | [451-sort-characters-by-frequency.py](451-sort-characters-by-frequency.py) |
 | 79  | Word Search               | Medium | [79-word-search.py](79-word-search.py) |
 | 131 | Palindrome Partitioning | Medium | [131-palindrome-partitioning.py](131-palindrome-partitioning.py) |
+| 17 | Letter Combinations of a Phone Number | Medium | [17-letter-combinations-of-a-phone-number.py](./17-letter-combinations-of-a-phone-number.py) |
 
 
 
