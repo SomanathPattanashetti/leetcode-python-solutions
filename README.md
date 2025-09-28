@@ -92,6 +92,7 @@ This is part of my **daily DSA practice** for improving problem-solving skills a
 | 389 | Find the Difference | Easy | [389-find-the-difference.py](389-find-the-difference.py) |
 | 133 | Clone Graph | Medium | [133-clone-graph.py](133-clone-graph.py) |
 | 433 | Minimum Genetic Mutation | Medium | [433-minimum-genetic-mutation.py](433-minimum-genetic-mutation.py) |
+| 947 | Most Stones Removed with Same Row or Column | Medium | [947-most-stones-removed-with-same-row-or-column.py](947-most-stones-removed-with-same-row-or-column.py) |
 
 
 
