@@ -95,6 +95,7 @@ This is part of my **daily DSA practice** for improving problem-solving skills a
 | 947 | Most Stones Removed with Same Row or Column | Medium | [947-most-stones-removed-with-same-row-or-column.py](947-most-stones-removed-with-same-row-or-column.py) |
 | 1926 | Nearest Exit from Entrance in Maze | Medium | [1926-nearest-exit-from-entrance-in-maze.py](1926-nearest-exit-from-entrance-in-maze.py) |
 | 841 | Keys and Rooms | Medium | [841-keys-and-rooms.py](841-keys-and-rooms.py) |
+| 1971 | Find if Path Exists in Graph | Easy | [1971-find-if-path-exists-in-graph.py](1971-find-if-path-exists-in-graph.py) |
 
 
 
