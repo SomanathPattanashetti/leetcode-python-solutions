@@ -97,6 +97,7 @@ This is part of my **daily DSA practice** for improving problem-solving skills a
 | 841 | Keys and Rooms | Medium | [841-keys-and-rooms.py](841-keys-and-rooms.py) |
 | 1971 | Find if Path Exists in Graph | Easy | [1971-find-if-path-exists-in-graph.py](1971-find-if-path-exists-in-graph.py) |
 | 797 | All Paths From Source to Target | Medium | [797-all-paths-from-source-to-target.py](797-all-paths-from-source-to-target.py) |
+| 886 | Possible Bipartition | Medium | [886-possible-bipartition.py](886-possible-bipartition.py) |
 
 
 
