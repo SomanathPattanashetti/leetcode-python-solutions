@@ -99,6 +99,7 @@ This is part of my **daily DSA practice** for improving problem-solving skills a
 | 797 | All Paths From Source to Target | Medium | [797-all-paths-from-source-to-target.py](797-all-paths-from-source-to-target.py) |
 | 886 | Possible Bipartition | Medium | [886-possible-bipartition.py](886-possible-bipartition.py) |
 | 1061 | Lexicographically Smallest Equivalent String | Medium | [1061-smallest-equivalent-string.py](1061-smallest-equivalent-string.py) |
+| 2492 | Minimum Score of a Path Between Two Cities | Medium | [2492-minimum-score-of-a-path-between-two-cities.py](2492-minimum-score-of-a-path-between-two-cities.py) |
 
 
 
