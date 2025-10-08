@@ -102,6 +102,7 @@ This is part of my **daily DSA practice** for improving problem-solving skills a
 | 2492 | Minimum Score of a Path Between Two Cities | Medium | [2492-minimum-score-of-a-path-between-two-cities.py](2492-minimum-score-of-a-path-between-two-cities.py) |
 | 518 | Coin Change II | Medium | [518-coin-change-ii.py](518-coin-change-ii.py) |
 | 300 | Longest Increasing Subsequence | Medium | [300-longest-increasing-subsequence.py](300-longest-increasing-subsequence.py) |
+| 1143 | Longest Common Subsequence | Medium | [1143-longest-common-subsequence.py](1143-longest-common-subsequence.py) |
 
 
 
