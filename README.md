@@ -103,6 +103,7 @@ This is part of my **daily DSA practice** for improving problem-solving skills a
 | 518 | Coin Change II | Medium | [518-coin-change-ii.py](518-coin-change-ii.py) |
 | 300 | Longest Increasing Subsequence | Medium | [300-longest-increasing-subsequence.py](300-longest-increasing-subsequence.py) |
 | 1143 | Longest Common Subsequence | Medium | [1143-longest-common-subsequence.py](1143-longest-common-subsequence.py) |
+| 139 | Word Break | Medium | [139-word-break.py](139-word-break.py) |
 
 
 
