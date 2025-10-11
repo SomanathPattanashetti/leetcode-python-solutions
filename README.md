@@ -105,6 +105,7 @@ This is part of my **daily DSA practice** for improving problem-solving skills a
 | 1143 | Longest Common Subsequence | Medium | [1143-longest-common-subsequence.py](1143-longest-common-subsequence.py) |
 | 139 | Word Break | Medium | [139-word-break.py](139-word-break.py) |
 | 198 | House Robber | Medium | [198-house-robber.py](198-house-robber.py) |
+| 213 | House Robber II | Medium | [213-house-robber-ii.py](213-house-robber-ii.py) |
 
 
 
