@@ -106,6 +106,7 @@ This is part of my **daily DSA practice** for improving problem-solving skills a
 | 139 | Word Break | Medium | [139-word-break.py](139-word-break.py) |
 | 198 | House Robber | Medium | [198-house-robber.py](198-house-robber.py) |
 | 213 | House Robber II | Medium | [213-house-robber-ii.py](213-house-robber-ii.py) |
+| 91 | Decode Ways | Medium | [91-decode-ways.py](91-decode-ways.py) |
 
 
 
