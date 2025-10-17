@@ -111,6 +111,7 @@ This is part of my **daily DSA practice** for improving problem-solving skills a
 | 377 | Combination Sum IV | Medium | [377-combination-sum-iv.py](377-combination-sum-iv.py) |
 | 55 | Jump Game | Medium | [55-jump-game.py](55-jump-game.py) |
 | 1318 | Minimum Flips to Make a OR b Equal to c | Medium | [1318-min-flips-or.py](1318-min-flips-or.py) |
+| 2433 | Find the Original Array of Prefix XOR | Medium | [2433-find-the-original-array-of-prefix-xor.py](2433-find-the-original-array-of-prefix-xor.py) |
 
 
 
