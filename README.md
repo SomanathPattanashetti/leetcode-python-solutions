@@ -113,6 +113,7 @@ This is part of my **daily DSA practice** for improving problem-solving skills a
 | 1318 | Minimum Flips to Make a OR b Equal to c | Medium | [1318-min-flips-or.py](1318-min-flips-or.py) |
 | 2433 | Find the Original Array of Prefix XOR | Medium | [2433-find-the-original-array-of-prefix-xor.py](2433-find-the-original-array-of-prefix-xor.py) |
 | 137 | Single Number II | Medium | [137-single-number-ii.py](137-single-number-ii.py) |
+| 338 | Counting Bits | Easy | [338-counting-bits.py](338-counting-bits.py) |
 
 
 
