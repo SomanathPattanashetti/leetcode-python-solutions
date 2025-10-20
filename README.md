@@ -114,6 +114,7 @@ This is part of my **daily DSA practice** for improving problem-solving skills a
 | 2433 | Find the Original Array of Prefix XOR | Medium | [2433-find-the-original-array-of-prefix-xor.py](2433-find-the-original-array-of-prefix-xor.py) |
 | 137 | Single Number II | Medium | [137-single-number-ii.py](137-single-number-ii.py) |
 | 338 | Counting Bits | Easy | [338-counting-bits.py](338-counting-bits.py) |
+| 2997 | Minimum Number of Operations to Make Array XOR Equal to K | Medium | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k.py](2997-minimum-number-of-operations-to-make-array-xor-equal-to-k.py) |
 
 
 
