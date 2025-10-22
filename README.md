@@ -116,6 +116,7 @@ This is part of my **daily DSA practice** for improving problem-solving skills a
 | 338 | Counting Bits | Easy | [338-counting-bits.py](338-counting-bits.py) |
 | 2997 | Minimum Number of Operations to Make Array XOR Equal to K | Medium | [2997-minimum-number-of-operations-to-make-array-xor-equal-to-k.py](2997-minimum-number-of-operations-to-make-array-xor-equal-to-k.py) |
 | 1404 | Number of Steps to Reduce a Number in Binary Representation to One | Medium | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one.py](1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one.py) |
+| 1310 | XOR Queries of a Subarray | Medium | [1310-xor-queries-of-a-subarray.py](1310-xor-queries-of-a-subarray.py) |
 
 
 
