@@ -118,6 +118,7 @@ This is part of my **daily DSA practice** for improving problem-solving skills a
 | 1404 | Number of Steps to Reduce a Number in Binary Representation to One | Medium | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one.py](1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one.py) |
 | 1310 | XOR Queries of a Subarray | Medium | [1310-xor-queries-of-a-subarray.py](1310-xor-queries-of-a-subarray.py) |
 | 2425 | Bitwise XOR of All Pairings | Medium | [2425-xor-of-all-pairings.py](2425-xor-of-all-pairings.py) |
+| 190 | Reverse Bits | Easy | [190-reverse-bits.py](190-reverse-bits.py) |
 
 
 
