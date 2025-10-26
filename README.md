@@ -120,6 +120,8 @@ This is part of my **daily DSA practice** for improving problem-solving skills a
 | 2425 | Bitwise XOR of All Pairings | Medium | [2425-xor-of-all-pairings.py](2425-xor-of-all-pairings.py) |
 | 190 | Reverse Bits | Easy | [190-reverse-bits.py](190-reverse-bits.py) |
 | 1371 | Find the Longest Substring Containing Even Counts of Vowels | Medium | [1371-find-the-longest-substring-containing-even-counts-of-vowels.py](1371-find-the-longest-substring-containing-even-counts-of-vowels.py) |
+| 443 | String Compression | Medium | [443-string-compression.py](443-string-compression.py) |
+
 
 
 
