@@ -121,6 +121,7 @@ This is part of my **daily DSA practice** for improving problem-solving skills a
 | 190 | Reverse Bits | Easy | [190-reverse-bits.py](190-reverse-bits.py) |
 | 1371 | Find the Longest Substring Containing Even Counts of Vowels | Medium | [1371-find-the-longest-substring-containing-even-counts-of-vowels.py](1371-find-the-longest-substring-containing-even-counts-of-vowels.py) |
 | 443 | String Compression | Medium | [443-string-compression.py](443-string-compression.py) |
+| 1657 | Determine if Two Strings Are Close | Medium | [1657-determine-if-two-strings-are-close.py](1657-determine-if-two-strings-are-close.py) |
 
 
 
