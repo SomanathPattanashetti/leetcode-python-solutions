@@ -123,6 +123,7 @@ This is part of my **daily DSA practice** for improving problem-solving skills a
 | 443 | String Compression | Medium | [443-string-compression.py](443-string-compression.py) |
 | 1657 | Determine if Two Strings Are Close | Medium | [1657-determine-if-two-strings-are-close.py](1657-determine-if-two-strings-are-close.py) |
 | 472 | Concatenated Words | Hard | [472-concatenated-words.py](472-concatenated-words.py) |
+| 49 | Group Anagrams | Medium | [49-group-anagrams.py](49-group-anagrams.py) |
 
 
 
