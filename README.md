@@ -127,6 +127,7 @@ This is part of my **daily DSA practice** for improving problem-solving skills a
 | 520 | Detect Capital | Easy | [520-detect-capital.py](520-detect-capital.py) |
 | 557 | Reverse Words in a String III | Easy | [557-reverse-words-in-a-string-iii.py](557-reverse-words-in-a-string-iii.py) |
 | 316 | Remove Duplicate Letters | Medium | [316-remove-duplicate-letters.py](316-remove-duplicate-letters.py) |
+| 3304 | Find the K-th Character in String Game I | Easy | [3304-find-the-kth-character-in-string-game-i.py](3304-find-the-kth-character-in-string-game-i.py) |
 
 
 
