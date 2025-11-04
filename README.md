@@ -129,7 +129,8 @@ This is part of my **daily DSA practice** for improving problem-solving skills a
 | 316 | Remove Duplicate Letters | Medium | [316-remove-duplicate-letters.py](316-remove-duplicate-letters.py) |
 | 3304 | Find the K-th Character in String Game I | Easy | [3304-find-the-kth-character-in-string-game-i.py](3304-find-the-kth-character-in-string-game-i.py) |
 | 880 | Decoded String at Index | Medium | 880-decoded-string-at-index.py
- |
+| 392 | Is Subsequence | Easy | [392-is-subsequence.py](392-is-subsequence.py) |
+
 
 
 
