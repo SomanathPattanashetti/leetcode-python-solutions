@@ -132,6 +132,7 @@ This is part of my **daily DSA practice** for improving problem-solving skills a
 | 392 | Is Subsequence | Easy | [392-is-subsequence.py](392-is-subsequence.py) |
 | 26 | Remove Duplicates from Sorted Array | Easy | [26-remove-duplicates-from-sorted-array.py](26-remove-duplicates-from-sorted-array.py) |
 | 560 | Subarray Sum Equals K | Medium | [560-subarray-sum-equals-k.py](560-subarray-sum-equals-k.py) |
+| 1910 | Remove All Occurrences of a Substring | Medium | [1910-remove-occurrences.py](1910-remove-occurrences.py) |
 
 
 
