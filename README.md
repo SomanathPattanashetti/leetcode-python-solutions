@@ -136,6 +136,7 @@ This is part of my **daily DSA practice** for improving problem-solving skills a
 | 228 | Summary Ranges | Easy | [228-summary-ranges.py](228-summary-ranges.py) |
 | 219 | Contains Duplicate II | Easy | [219-contains-duplicate-ii.py](219-contains-duplicate-ii.py) |
 | 3542 | Minimum Operations to Make the Array Non-Decreasing | Medium | [3542-min-operations.py](3542-min-operations.py) |
+| 946 | Validate Stack Sequences | Medium | [946-validate-stack-sequences.py](946-validate-stack-sequences.py) |
 
 
 
