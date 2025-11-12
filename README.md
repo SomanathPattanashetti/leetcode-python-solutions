@@ -137,6 +137,7 @@ This is part of my **daily DSA practice** for improving problem-solving skills a
 | 219 | Contains Duplicate II | Easy | [219-contains-duplicate-ii.py](219-contains-duplicate-ii.py) |
 | 3542 | Minimum Operations to Make the Array Non-Decreasing | Medium | [3542-min-operations.py](3542-min-operations.py) |
 | 946 | Validate Stack Sequences | Medium | [946-validate-stack-sequences.py](946-validate-stack-sequences.py) |
+| 2654 | Minimum Number of Operations to Make All Array Elements Equal to 1 | Medium | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1.py](2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1.py) |
 
 
 
