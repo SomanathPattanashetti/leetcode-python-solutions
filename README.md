@@ -138,6 +138,7 @@ This is part of my **daily DSA practice** for improving problem-solving skills a
 | 3542 | Minimum Operations to Make the Array Non-Decreasing | Medium | [3542-min-operations.py](3542-min-operations.py) |
 | 946 | Validate Stack Sequences | Medium | [946-validate-stack-sequences.py](946-validate-stack-sequences.py) |
 | 2654 | Minimum Number of Operations to Make All Array Elements Equal to 1 | Medium | [2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1.py](2654-minimum-number-of-operations-to-make-all-array-elements-equal-to-1.py) |
+| 1456 | Maximum Number of Vowels in a Substring of Given Length | Medium | [1456-maximum-number-of-vowels-in-a-substring-of-given-length.py](1456-maximum-number-of-vowels-in-a-substring-of-given-length.py) |
 
 
 
