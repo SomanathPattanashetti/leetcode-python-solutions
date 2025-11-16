@@ -141,6 +141,7 @@ This is part of my **daily DSA practice** for improving problem-solving skills a
 | 1456 | Maximum Number of Vowels in a Substring of Given Length | Medium | [1456-maximum-number-of-vowels-in-a-substring-of-given-length.py](1456-maximum-number-of-vowels-in-a-substring-of-given-length.py) |
 | 3228 | Maximum Number of Operations to Move Ones to the End | Medium | [3228-max-operations-move-ones.py](3228-max-operations-move-ones.py) |
 | 2147 | Number of Ways to Divide a Long Corridor | Hard | [2147-number-of-ways-to-divide-a-long-corridor.py](2147-number-of-ways-to-divide-a-long-corridor.py) |
+| 34 | Find First and Last Position of Element in Sorted Array | Medium | [34-find-first-and-last-position.py](34-find-first-and-last-position.py) |
 
 
 
